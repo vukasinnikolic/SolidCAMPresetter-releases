@@ -5,7 +5,7 @@ click. It points a SolidCAM version at a main folder (CAM-Parts,
 post-processors, machine simulation), makes SOLIDWORKS load that SolidCAM
 version and restarts SOLIDWORKS.
 
-**Download the latest version** (now 1.2.1):
+**Download the latest version** (now 1.2.2):
 [SolidCAMPresetter.zip](https://github.com/vukasinnikolic/SolidCAMPresetter-releases/raw/main/SolidCAMPresetter.zip)
 or the exe on its own:
 [SolidCAMPresetter.exe](https://github.com/vukasinnikolic/SolidCAMPresetter-releases/raw/main/SolidCAMPresetter.exe).
