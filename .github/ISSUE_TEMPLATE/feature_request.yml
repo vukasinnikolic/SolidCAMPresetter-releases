@@ -1,0 +1,25 @@
+name: Feature request
+description: An idea that would make SolidCAM Presetter better.
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **This repository is public**: leave out customer names, case numbers and paths you cannot share.
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like it to do
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: When would you use it
+      description: The support case or workflow it would help with.
+  - type: input
+    id: version
+    attributes:
+      label: SolidCAM Presetter version
+      description: Help → About shows it.
+      placeholder: "1.2.4"
