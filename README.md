@@ -7,7 +7,7 @@ version and restarts SOLIDWORKS.
 
 Built by Vukasin Nikolic - SolidCAM International Support Serbia.
 
-**Download the latest version** (now 1.4.0):
+**Download the latest version** (now 1.4.1):
 [SolidCAMPresetter.zip](https://github.com/vukasinnikolic/SolidCAMPresetter-releases/raw/main/SolidCAMPresetter.zip)
 or the exe on its own:
 [SolidCAMPresetter.exe](https://github.com/vukasinnikolic/SolidCAMPresetter-releases/raw/main/SolidCAMPresetter.exe).
