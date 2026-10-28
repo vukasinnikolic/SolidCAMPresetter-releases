@@ -7,7 +7,7 @@ version and restarts SOLIDWORKS.
 
 Built by Vukasin Nikolic - SolidCAM International Support Serbia.
 
-**Download the latest version** (now 1.3.2):
+**Download the latest version** (now 1.4.0):
 [SolidCAMPresetter.zip](https://github.com/vukasinnikolic/SolidCAMPresetter-releases/raw/main/SolidCAMPresetter.zip)
 or the exe on its own:
 [SolidCAMPresetter.exe](https://github.com/vukasinnikolic/SolidCAMPresetter-releases/raw/main/SolidCAMPresetter.exe).
@@ -32,6 +32,10 @@ loads a version registered for the computer: Windows asks once per switch.
 - With UAC on "Never notify", an administrator account is not asked at all;
   a standard account cannot switch versions.
 - No, or Cancel: SOLIDWORKS stays as it was, and the app says so.
+
+**Unregister SolidCAM** disconnects every SolidCAM version from SOLIDWORKS
+(the same Windows prompt when one is registered for the computer); Register
+add-in connects one again. **Dark mode** is in the *View* menu.
 
 Do not run the app as administrator to skip this: dragging folders and zips
 from Explorer onto it stops working, and mapped drive letters may be missing.
